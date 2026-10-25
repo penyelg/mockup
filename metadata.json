@@ -1,0 +1,6 @@
+{
+  "name": "IsabelCare - Healthcare Navigation & Clinic Appointment Booking",
+  "description": "AI-Assisted Healthcare Navigation and Clinic Appointment Booking System for Patients and Healthcare Providers in Isabel, Leyte, Philippines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
